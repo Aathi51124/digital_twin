@@ -3,6 +3,5 @@ pandas
 numpy
 nltk
 scikit-learn
-tensorflow-cpu==2.13.0
 pulp
 plotly
